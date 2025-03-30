@@ -9,9 +9,9 @@
     <td align="center" valign="top" width="33%"><a href=""><img src="" ></a></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><a href = "https://github.com/5jisoo">경민서</a><br>Backend Developer</td>
-    <td align="center" valign="top"><a href = "https://github.com/dudrhy12">이지은</a><br>Backend Developer</td>
-    <td align="center" valign="top"><a href = "https://github.com/yeahjinjeong">주효은</a><br>Backend Developer</td>
+    <td align="center" valign="top"><a href = "https://github.com/mxinseo">경민서</a><br>Backend Developer</td>
+    <td align="center" valign="top"><a href = "https://github.com/ljinny">이지은</a><br>Backend Developer</td>
+    <td align="center" valign="top"><a href = "">주효은</a><br>Backend Developer</td>
   </tr>
   <tr>
     <td valign="top"> <!-- 경민서 -->
