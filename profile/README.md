@@ -1,12 +1,30 @@
-## Hi there 👋
+## 2025-2학기 숙명여자대학교 소프트웨어학부 졸업작품
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Contributors
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="https://github.com/mxinseo"><img src="https://avatars.githubusercontent.com/u/110973127?v=4" ></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://github.com/ljinny"><img src="https://avatars.githubusercontent.com/u/104649081?v=4" ></a></td>
+    <td align="center" valign="top" width="33%"><a href=""><img src="" ></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><a href = "https://github.com/5jisoo">경민서</a><br>Backend Developer</td>
+    <td align="center" valign="top"><a href = "https://github.com/dudrhy12">이지은</a><br>Backend Developer</td>
+    <td align="center" valign="top"><a href = "https://github.com/yeahjinjeong">주효은</a><br>Backend Developer</td>
+  </tr>
+  <tr>
+    <td valign="top"> <!-- 경민서 -->
+        <ul>
+        </ul>
+    </td>
+    <td valign="top"> <!-- 이지은 -->
+        <ul>
+        </ul>
+    </td> 
+    <td valign="top"> <!-- 주효은 -->
+        <ul>
+        </ul>
+    </td>
+  </tr>
+</table>
