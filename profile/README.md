@@ -1,7 +1,7 @@
 ## 2025-2학기 숙명여자대학교 소프트웨어학부 졸업작품
 
 
-### Contributors
+### People
 <table>
   <tr>
     <td align="center" valign="top" width="33%"><a href="https://github.com/mxinseo"><img src="https://avatars.githubusercontent.com/u/110973127?v=4" ></a></td>
