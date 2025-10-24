@@ -1,1 +1,1 @@
-<img width="5334" height="3000" alt="2025-2 졸업작품발표_안락해요(AlertCare)-01" src="https://github.com/user-attachments/assets/88bceedd-1b96-4fe8-8886-86c89a5205b2" />
+<img width="5906" height="8350" alt="B2 (300 DPI)" src="https://github.com/user-attachments/assets/b2c60854-5506-451d-9d22-cd22aec1a4c4" />
